@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696251361495",
+    "firebase_url": "https://weeklyfood-3d4a5.firebaseio.com",
+    "project_id": "weeklyfood-3d4a5",
+    "storage_bucket": "weeklyfood-3d4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696251361495:android:adb083bfb710ce8f8d6892",
+        "android_client_info": {
+          "package_name": "com.example.weekly_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696251361495-gnm6ksnttlujjkj7535fc6q48urqloff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weekly_food",
+            "certificate_hash": "9751eb10c9465c3c78b59e5b64f6fbfb3d99d7df"
+          }
+        },
+        {
+          "client_id": "696251361495-fntgpi7l2iatbv7aeq5fq8qk92k6lohd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbiocbGcLl9IP-k6reinAhtnVXzZKu3zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696251361495-fntgpi7l2iatbv7aeq5fq8qk92k6lohd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
